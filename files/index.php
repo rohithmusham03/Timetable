@@ -29,7 +29,7 @@ if (isset($_GET['generated']) && $_GET['generated'] == "false") {
     <div class="container">
         <div align="center">
              <img width= 100 height=100 src="assets/img/lab2.jpg" alt="Flower">
-            <h3 align="center">TIME TABLE MANAGEMENT SYSTEM, ANKITHA</h3>
+            <h3 align="center">TIME TABLE MANAGEMENT SYSTEM,  ANKITHA 143</h3>
         </div>
     </div>
 </div>
